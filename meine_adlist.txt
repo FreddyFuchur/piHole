@@ -1,22 +1,22 @@
-0.0.0.0 osb-apps.samsungqbe.com	
-0.0.0.0 stats.hbbtv.smartclip.net	
-0.0.0.0 ads.samsungads.com	
-0.0.0.0 config.samsungads.com	
-0.0.0.0 osb-apps-v2.samsungqbe.com	
-0.0.0.0 eu-auth2.samsungosp.com	
-0.0.0.0 sas.samsungcloudsolution.com	
-0.0.0.0 tvpnlogopeu.samsungcloud.tv	
-0.0.0.0 osb-v2.samsungqbe.com	
-0.0.0.0 osb-auth-eusvc-v2.samsungqbe.com	
-0.0.0.0 tvx.adgrx.com	
-0.0.0.0 configprd.samsungcloudsolution.net	
-0.0.0.0 gld.push.samsungosp.com	
-0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com	
-0.0.0.0 gpm.samsungqbe.com	
-0.0.0.0 osb-eusvc-v2.samsungqbe.com	
-0.0.0.0 time.samsungcloudsolution.com	
-0.0.0.0 lcprd1.samsungcloudsolution.net	
-0.0.0.0 fc.samsungcloud.tv	
-0.0.0.0 scs.samsungqbe.com	
-0.0.0.0 _xmpp-client._tcp.scs.samsungqbe.com	
-0.0.0.0 cdn.samsungcloudsolution.com	
+osb-apps.samsungqbe.com	
+stats.hbbtv.smartclip.net	
+ads.samsungads.com	
+config.samsungads.com	
+osb-apps-v2.samsungqbe.com	
+eu-auth2.samsungosp.com	
+sas.samsungcloudsolution.com	
+tvpnlogopeu.samsungcloud.tv	
+osb-v2.samsungqbe.com	
+osb-auth-eusvc-v2.samsungqbe.com	
+tvx.adgrx.com	
+configprd.samsungcloudsolution.net	
+gld.push.samsungosp.com	
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com	
+gpm.samsungqbe.com	
+osb-eusvc-v2.samsungqbe.com	
+time.samsungcloudsolution.com	
+lcprd1.samsungcloudsolution.net	
+fc.samsungcloud.tv	
+scs.samsungqbe.com	
+_xmpp-client._tcp.scs.samsungqbe.com	
+cdn.samsungcloudsolution.com	
