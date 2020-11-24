@@ -23,3 +23,4 @@ scs.samsungqbe.com
 _xmpp-client._tcp.scs.samsungqbe.com
 cdn.samsungcloudsolution.com
 sas.samsungcloudsolution.com
+img-resize-cdn-prod.samsungnyc.com
