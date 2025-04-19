@@ -24,3 +24,13 @@ _xmpp-client._tcp.scs.samsungqbe.com
 cdn.samsungcloudsolution.com
 sas.samsungcloudsolution.com
 img-resize-cdn-prod.samsungnyc.com
+geller-pa.googleapis.com	
+tabletcaptiveportal.com	
+dcape-na.amazon.com	
+arcus-uswest.amazon.com	
+msh.amazon.co.uk
+consumer-api.eu-west-1.prod.fire-card.devices.a2z.com	
+volksbank-kreditabteilung.de
+www.erecruiting.zivit.de
+www.googleadservices.com
+dns.msftncsi.com
